@@ -42,8 +42,6 @@ def handle_message(event):
 
     if msg == 'hi':
         r = 'hi'
-    if msg == 'hello':
-        r = 'hello'
     elif msg == '早安':
         r = '早安,祝您有個開心的一天'
 
